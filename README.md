@@ -52,11 +52,11 @@ Completing all of these test suites is not necessary, but you should be working 
 - [ ] 💵 [Vending Machine](./dollar-store-vending-machine/)
 - [ ] 🛗 [Elevator](./elevator/)
 - [ ] 📚 [Library](./library)
-- [ ] 🌮 [Taco Stand](./tacoStand/)
+- [x] 🌮 [Taco Stand](./tacoStand/)
 - [ ] ✂️ [Barber Shop](./barber-shop/)
 - [ ] 🥗 [Meal Planning](./meal-planning/)
 - [ ] 🍜 [Restaurant](./restaurant/)
-- [ ] 🧖‍♀️ [Spa](./spa/)
+- [x] 🧖‍♀️ [Spa](./spa/)
 - [ ] 🎵 [Spotify](./spotify/)
 - [ ] 📼 [VHS](./vhs/)
 
